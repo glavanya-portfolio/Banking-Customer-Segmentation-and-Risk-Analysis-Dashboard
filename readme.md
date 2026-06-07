@@ -10,18 +10,17 @@ Banks generate large volumes of customer, transaction, and loan data. Without pr
 
 This dashboard helps stakeholders:
 
-Identify high-value customers
-Analyze customer demographics and account behavior
-Monitor churn risk levels
-Evaluate loan distribution and approval trends
-Detect potential fraud indicators
+Identify high-value customers,
+Analyze customer demographics and account behavior,
+Monitor churn risk levels,
+Evaluate loan distribution and approval trends,
+Detect potential fraud indicators,
 Track customer balances and transaction activity
 
 Tools & Technologies:
-Power BI
-MySQL
-SQL
-Python
+Power BI,
+MySQL,
+Python,
 Excel/CSV
 
 Data Preparation:
@@ -42,71 +41,71 @@ SQL Analysis:
 
 Performed business analysis using:
 
-Aggregate Functions
-GROUP BY
-Common Table Expressions (CTEs)
-Views
+Aggregate Functions,
+GROUP BY,
+Common Table Expressions (CTEs),
+Views,
 Window Functions (RANK)
 
 Key Analysis Areas:
 
-Customer segmentation
-City-wise customer analysis
-Account type distribution
-Balance analysis
-Loan amount analysis
-Credit score analysis
-Churn risk identification
-Fraud indicator analysis
+Customer segmentation,
+City-wise customer analysis,
+Account type distribution,
+Balance analysis,
+Loan amount analysis,
+Credit score analysis,
+Churn risk identification,
+Fraud indicator analysis,
 High-value customer identification
 
 Dashboard Features:
 
 KPI Cards:
 
-Total Customers
-Total Balance
-Total Loan Amount
-Average Credit Score
-Customer Analysis
-Customer Distribution by Age Group
-Gender Analysis
-City-wise Balance Analysis
-Credit Score Distribution
-Loan & Risk Analysis
-Loan Status Overview
-Loan Amount by City
-Churn Risk Distribution
+Total Customers,
+Total Balance,
+Total Loan Amount,
+Average Credit Score,
+Customer Analysis,
+Customer Distribution by Age Group,
+Gender Analysis,
+City-wise Balance Analysis,
+Credit Score Distribution,
+Loan & Risk Analysis,
+Loan Status Overview,
+Loan Amount by City,
+Churn Risk Distribution,
 Fraud Detection Analysis
 
 Interactive Features:
 
-Slicers
-Drill-through Analysis
-Dynamic Filtering
-Multi-page Reporting
+Slicers,
+Drill-through Analysis,
+Dynamic Filtering,
+Multi-page Reporting,
 Conditional Formatting
 
 Business Insights:
 
-Identified cities contributing the highest customer base.
-Analyzed customer segments based on age, balance, and credit score.
-Evaluated loan exposure across different customer groups.
-Identified customers with high churn risk.
-Monitored fraud indicators for risk assessment.
+Identified cities contributing the highest customer base.,
+Analyzed customer segments based on age, balance, and credit score.,
+Evaluated loan exposure across different customer groups.,
+Identified customers with high churn risk.,
+Monitored fraud indicators for risk assessment.,
 Highlighted high-value customers contributing significantly to total portfolio balance.
 
 Skills Demonstrated:
 
-Data Cleaning
-SQL Analytics
-Customer Segmentation
-Risk Analysis
-Data Visualization
-Business Intelligence
-Dashboard Development
-KPI Design
-DAX Measures
+Data Cleaning,
+SQL Analytics,
+Customer Segmentation,
+Risk Analysis,
+Data Visualization,
+Business Intelligence,
+Dashboard Development,
+KPI Design,
+DAX Measures,
 Drill-through Reporting
 
 Project Outcome:
