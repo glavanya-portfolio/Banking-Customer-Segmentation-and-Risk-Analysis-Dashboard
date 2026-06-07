@@ -1,4 +1,5 @@
 Banking Customer segmentation & Risk analysis Dashboard
+
 Project Overview:
 
 This project focuses on analyzing banking customer data to understand customer behavior, evaluate financial performance, identify high-value customers, assess churn risk, and monitor fraud indicators. A realistic banking dataset was generated using Python and analyzed using SQL and Power BI to derive actionable business insights and support data-driven decision-making.
@@ -29,6 +30,7 @@ Dataset Generation:
 Generated a realistic banking customer dataset using Python.
 Created over 19,500 customer records with demographic, financial, loan, and transaction information.
 Simulated real-world banking scenarios for analysis.
+
 Data Cleaning:
 Imported data into MySQL Workbench.
 Performed data quality validation and consistency checks.
@@ -47,6 +49,7 @@ Views
 Window Functions (RANK)
 
 Key Analysis Areas:
+
 Customer segmentation
 City-wise customer analysis
 Account type distribution
@@ -58,7 +61,9 @@ Fraud indicator analysis
 High-value customer identification
 
 Dashboard Features:
+
 KPI Cards:
+
 Total Customers
 Total Balance
 Total Loan Amount
@@ -75,6 +80,7 @@ Churn Risk Distribution
 Fraud Detection Analysis
 
 Interactive Features:
+
 Slicers
 Drill-through Analysis
 Dynamic Filtering
@@ -82,6 +88,7 @@ Multi-page Reporting
 Conditional Formatting
 
 Business Insights:
+
 Identified cities contributing the highest customer base.
 Analyzed customer segments based on age, balance, and credit score.
 Evaluated loan exposure across different customer groups.
@@ -90,6 +97,7 @@ Monitored fraud indicators for risk assessment.
 Highlighted high-value customers contributing significantly to total portfolio balance.
 
 Skills Demonstrated:
+
 Data Cleaning
 SQL Analytics
 Customer Segmentation
@@ -100,6 +108,7 @@ Dashboard Development
 KPI Design
 DAX Measures
 Drill-through Reporting
+
 Project Outcome:
 
 Developed an end-to-end Banking Customer Analytics & Risk Intelligence solution using Python, SQL, and Power BI. The project transformed raw banking data into meaningful business insights through data cleaning, advanced SQL analysis, customer segmentation, risk monitoring, and interactive dashboard reporting.
